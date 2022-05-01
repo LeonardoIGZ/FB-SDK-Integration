@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FB-SDK-Integration</string>
+
+    <string name="facebook_app_id">410026733917033</string>
+    <string name="fb_login_protocol_scheme">fb410026733917033</string>
+    <string name="facebook_client_token">b1c122ab1bb7abb89fcb747ac8cd80ae</string>
+    <string name="button">Share</string>
+    <string name="link">https://www.youtube.com/watch?v=_It2Ao3-jgE</string>
+</resources>
